@@ -91,3 +91,4 @@ Hint: you need to modify file `app/Http/Controllers/Auth/RegisteredUserControlle
 
 Test method: `test_password_at_least_one_uppercase_lowercase_letter()`.
 
+# Test-Laravel-Auth-Basics
